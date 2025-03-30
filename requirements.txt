@@ -1,0 +1,5 @@
+python-telegram-bot[ext]>=20.5,<21.0
+requests>=2.25.0,<3.0.0
+# beautifulsoup4>=4.9.0,<5.0.0 # Add if you implement BS4 scraping
+# selenium>=4.0.0,<5.0.0       # Add if you implement Selenium scraping
+# playwright>=1.0.0,<2.0.0     # Add if you implement Playwright scraping
